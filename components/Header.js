@@ -1,7 +1,7 @@
 import { ImFacebook, ImTwitter, ImYoutube } from "react-icons/im";
 import Link from "next/link";
 
-export default function header() {
+export default function Header() {
     return (
         <header className="bg-gray-50">
             <div className="xl:container xl:mx-auto flex flex-col items-center sm:flex-row sm:justify-between text-center py-3">
