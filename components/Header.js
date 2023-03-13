@@ -1,7 +1,7 @@
 import { ImFacebook, ImTwitter, ImYoutube } from "react-icons/im";
 import Link from "next/link";
 
-export default function Header() {
+export default function header() {
     return (
         <header className="bg-gray-50">
             <div className="xl:container xl:mx-auto flex flex-col items-center sm:flex-row sm:justify-between text-center py-3">
@@ -16,7 +16,7 @@ export default function Header() {
                 <div className="w-96 order-3 flex justify-center">
                     <div className="flex gap-6">
                         <Link href={"/"}>
-                            <ImFacebook color="#888888" color="#888888" />
+                            <ImFacebook color="#888888" />
                         </Link>
                         <Link href={"/"}>
                             <ImTwitter color="#888888" />
