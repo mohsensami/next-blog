@@ -8,6 +8,7 @@ import Spinner from "../../components/_child/spinner";
 import ErrorComponent from "../../components/_child/error";
 import { useRouter } from "next/router";
 import { SWRConfig } from "swr";
+import Head from "next/head";
 
 export default function Page({ fallback }) {
     const router = useRouter();
@@ -27,6 +28,9 @@ export default function Page({ fallback }) {
 function Article({ title, img, subtitle, description, author }) {
     return (
         <Format>
+            <Head>
+                <title>{title} - Blog</title>
+            </Head>
             <section className="container mx-auto md:px-2 py-16 w-1/2">
                 <div className="flex justify-center">{author ? <Author {...author}></Author> : <></>}</div>
 
