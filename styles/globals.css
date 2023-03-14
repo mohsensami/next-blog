@@ -22,9 +22,33 @@
     }
 }
 
+@font-face {
+    font-family: IRANSansX;
+    font-style: normal;
+    font-weight: 700;
+    src: url("../public/fonts/IRANSans/woff/IRANSansWeb(FaNum)_Bold.woff") format("woff"), url("../public/fonts/IRANSans/woff2/IRANSansWeb(FaNum)_Bold.woff2") format("woff2");
+}
+@font-face {
+    font-family: IRANSansX;
+    font-style: normal;
+    font-weight: 500;
+    src: url("../public/fonts/IRANSans/woff/IRANSansWeb(FaNum)_Medium.woff") format("woff"), url("../public/fonts/IRANSans/woff2/IRANSansWeb(FaNum)_Medium.woff2") format("woff2");
+}
+@font-face {
+    font-family: IRANSansX;
+    font-style: normal;
+    font-weight: 400;
+    src: url("../public/fonts/IRANSans/woff/IRANSansWeb(FaNum).woff") format("woff"), url("../public/fonts/IRANSans/woff2/IRANSansWeb(FaNum).woff2") format("woff2");
+}
+
+/* * {
+    font-family: IRANSansX !important;
+} */
+
 :root {
     --max-width: 1100px;
     --border-radius: 12px;
+    font-family: IRANSansX !important;
     --font-mono: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono", "Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro", "Fira Mono", "Droid Sans Mono", "Courier New", monospace;
 
     --foreground-rgb: 0, 0, 0;
@@ -78,7 +102,7 @@ body {
 
 body {
     color: rgb(var(--foreground-rgb));
-    background: linear-gradient(to bottom, transparent, rgb(var(--background-end-rgb))) rgb(var(--background-start-rgb));
+    /* background: linear-gradient(to bottom, transparent, rgb(var(--background-end-rgb))) rgb(var(--background-start-rgb)); */
 }
 
 a {

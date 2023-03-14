@@ -2,338 +2,268 @@ export default {
     Trending: [
         {
             id: 1,
-            title: "Your most unhappy customers are your greatest source of learning",
-            subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            title: "عنوان آزمایشی مقالات محبوب",
+            subtitle: "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ.",
+            category: "مهاجرت و سفر",
             img: "/images/img1.jpg",
             description: `
-            Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind 
-            text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است
             `,
-            published: "Jun 3,  2022",
+            published: "۱۴۰۱/۱۰/۱۲",
             author: {
-                name: "Flying High",
+                name: "مدیر سایت",
                 img: "/images/author/author1.jpg",
-                designation: "CEO and Founder",
+                designation: "مدیر عامل سازمان",
             },
         },
         {
             id: 2,
-            title: "Your most unhappy customers are your greatest source of learning",
-            subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            title: "عنوان آزمایشی مقالات محبوب",
+            subtitle: "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ.",
+            category: "مهاجرت و سفر",
             img: "/images/img2.jpg",
             description: `
-            Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind 
-            text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است
             `,
-            published: "Jun 5,  2022",
+            published: "۱۴۰۱/۱۰/۱۲",
             author: {
-                name: "Flying High",
+                name: "مدیر سایت",
                 img: "/images/author/author1.jpg",
-                designation: "CEO and Founder",
+                designation: "مدیر عامل سازمان",
             },
         },
         {
             id: 3,
-            title: "Your most unhappy customers are your greatest source of learning",
-            subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            title: "عنوان آزمایشی مقالات محبوب",
+            subtitle: "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ.",
+            category: "مهاجرت و سفر",
             img: "/images/img3.png",
             description: `
-            Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind 
-            text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است
             `,
-            published: "Jun 7,  2022",
+            published: "۱۴۰۱/۱۰/۱۲",
             author: {
-                name: "Flying High",
+                name: "مدیر سایت",
                 img: "/images/author/author1.jpg",
-                designation: "CEO and Founder",
+                designation: "مدیر عامل سازمان",
             },
         },
         {
             id: 4,
-            title: "Your most unhappy customers are your greatest source of learning",
-            subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            title: "عنوان آزمایشی مقالات محبوب",
+            subtitle: "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ.",
+            category: "مهاجرت و سفر",
             img: "/images/img4.png",
             description: `
-            Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind 
-            text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است
             `,
-            published: "Jun 10,  2022",
+            published: "۱۴۰۱/۱۰/۱۲",
             author: {
-                name: "Flying High",
+                name: "مدیر سایت",
                 img: "/images/author/author1.jpg",
-                designation: "CEO and Founder",
+                designation: "مدیر عامل سازمان",
             },
         },
         {
             id: 5,
-            title: "Your most unhappy customers are your greatest source of learning",
-            subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            title: "عنوان آزمایشی مقالات محبوب",
+            subtitle: "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ.",
+            category: "مهاجرت و سفر",
             img: "/images/img5.png",
             description: `
-            Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind 
-            text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است
             `,
-            published: "Jun 14,  2022",
+            published: "۱۴۰۱/۱۰/۱۲",
             author: {
-                name: "Flying High",
+                name: "مدیر سایت",
                 img: "/images/author/author1.jpg",
-                designation: "CEO and Founder",
+                designation: "مدیر عامل سازمان",
             },
         },
     ],
     Posts: [
         {
             id: 1,
-            title: "Your most unhappy customers are your greatest source of learning",
-            subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            title: "عنوان آزمایشی وبلاگ",
+            subtitle: "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ.",
+            category: "تازه های تکنولوژی و فناوری",
             img: "/images/articles/posts/img1.jpg",
             description: `
-            Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind 
-            text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, qui ea assumenda illo quidem 
-            consequatur ducimus cum aliquam est minus provident placeat, nesciunt vitae. 
-            Et aperiam magni non quasi est asperiores nobis atque suscipit incidunt dignissimos! Harum et sunt ea.
-            When she reached the first hills of the Italic Mountains, she had a last view back on the skyline 
-            of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, 
-            the Line Lane. Pityful a rethoric question ran over her cheek, then she continued her way.
-            Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
-            Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
-            A small river named Duden flows by their place and supplies it with the necessary regelialia. 
-            It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای زیادی در شصت و سه درصد گذشته حال و آینده، شناخت فراوان جامعه و متخصصان را می طلبد، تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی، و فرهنگ پیشرو در زبان فارسی ایجاد کرد، در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها، و شرایط سخت تایپ به پایان رسد و زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی، و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.
+            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای زیادی در شصت و سه درصد گذشته حال و آینده، شناخت فراوان جامعه و متخصصان را می طلبد، تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی، و فرهنگ پیشرو در زبان فارسی ایجاد کرد، در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها، و شرایط سخت تایپ به پایان رسد و زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی، و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد..
             `,
-            published: "Jun 3,  2022",
+            published: "۱۴۰۱/۱۱/۲۲",
             author: {
-                name: "Flying High",
+                name: "مدیر وبلاگ",
                 img: "/images/author/author1.jpg",
-                designation: "CEO and Founder",
+                designation: "منابع انسانی سازمان",
             },
         },
         {
             id: 2,
-            title: "Your most unhappy customers are your greatest source of learning",
-            subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            title: "عنوان آزمایشی وبلاگ",
+            subtitle: "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ.",
+            category: "تازه های تکنولوژی و فناوری",
             img: "/images/articles/posts/img2.png",
             description: `
-            Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind 
-            text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, qui ea assumenda illo quidem 
-            consequatur ducimus cum aliquam est minus provident placeat, nesciunt vitae. 
-            Et aperiam magni non quasi est asperiores nobis atque suscipit incidunt dignissimos! Harum et sunt ea.
-            When she reached the first hills of the Italic Mountains, she had a last view back on the skyline 
-            of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, 
-            the Line Lane. Pityful a rethoric question ran over her cheek, then she continued her way.
-            Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
-            Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
-            A small river named Duden flows by their place and supplies it with the necessary regelialia. 
-            It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای زیادی در شصت و سه درصد گذشته حال و آینده، شناخت فراوان جامعه و متخصصان را می طلبد، تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی، و فرهنگ پیشرو در زبان فارسی ایجاد کرد، در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها، و شرایط سخت تایپ به پایان رسد و زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی، و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.
+            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای زیادی در شصت و سه درصد گذشته حال و آینده، شناخت فراوان جامعه و متخصصان را می طلبد، تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی، و فرهنگ پیشرو در زبان فارسی ایجاد کرد، در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها، و شرایط سخت تایپ به پایان رسد و زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی، و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد..
             `,
-            published: "Jun 5,  2022",
+            published: "۱۴۰۱/۱۱/۲۲",
             author: {
-                name: "Flying High",
+                name: "مدیر وبلاگ",
                 img: "/images/author/author1.jpg",
-                designation: "CEO and Founder",
+                designation: "منابع انسانی سازمان",
             },
         },
         {
             id: 3,
-            title: "Your most unhappy customers are your greatest source of learning",
-            subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            title: "عنوان آزمایشی وبلاگ",
+            subtitle: "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ.",
+            category: "تازه های تکنولوژی و فناوری",
             img: "/images/articles/posts/img3.png",
             description: `
-            Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind 
-            text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, qui ea assumenda illo quidem 
-            consequatur ducimus cum aliquam est minus provident placeat, nesciunt vitae. 
-            Et aperiam magni non quasi est asperiores nobis atque suscipit incidunt dignissimos! Harum et sunt ea.
-            When she reached the first hills of the Italic Mountains, she had a last view back on the skyline 
-            of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, 
-            the Line Lane. Pityful a rethoric question ran over her cheek, then she continued her way.
-            Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
-            Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
-            A small river named Duden flows by their place and supplies it with the necessary regelialia. 
-            It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای زیادی در شصت و سه درصد گذشته حال و آینده، شناخت فراوان جامعه و متخصصان را می طلبد، تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی، و فرهنگ پیشرو در زبان فارسی ایجاد کرد، در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها، و شرایط سخت تایپ به پایان رسد و زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی، و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.
+            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای زیادی در شصت و سه درصد گذشته حال و آینده، شناخت فراوان جامعه و متخصصان را می طلبد، تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی، و فرهنگ پیشرو در زبان فارسی ایجاد کرد، در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها، و شرایط سخت تایپ به پایان رسد و زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی، و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد..
             `,
-            published: "Jun 7,  2022",
+            published: "۱۴۰۱/۱۱/۲۲",
             author: {
-                name: "Flying High",
+                name: "مدیر وبلاگ",
                 img: "/images/author/author1.jpg",
-                designation: "CEO and Founder",
+                designation: "منابع انسانی سازمان",
             },
         },
         {
             id: 4,
-            title: "Your most unhappy customers are your greatest source of learning",
-            subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            title: "عنوان آزمایشی وبلاگ",
+            subtitle: "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ.",
+            category: "تازه های تکنولوژی و فناوری",
             img: "/images/articles/posts/img4.png",
             description: `
-            Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind 
-            text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, qui ea assumenda illo quidem 
-            consequatur ducimus cum aliquam est minus provident placeat, nesciunt vitae. 
-            Et aperiam magni non quasi est asperiores nobis atque suscipit incidunt dignissimos! Harum et sunt ea.
-            When she reached the first hills of the Italic Mountains, she had a last view back on the skyline 
-            of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, 
-            the Line Lane. Pityful a rethoric question ran over her cheek, then she continued her way.
-            Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
-            Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
-            A small river named Duden flows by their place and supplies it with the necessary regelialia. 
-            It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای زیادی در شصت و سه درصد گذشته حال و آینده، شناخت فراوان جامعه و متخصصان را می طلبد، تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی، و فرهنگ پیشرو در زبان فارسی ایجاد کرد، در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها، و شرایط سخت تایپ به پایان رسد و زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی، و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.
+            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای زیادی در شصت و سه درصد گذشته حال و آینده، شناخت فراوان جامعه و متخصصان را می طلبد، تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی، و فرهنگ پیشرو در زبان فارسی ایجاد کرد، در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها، و شرایط سخت تایپ به پایان رسد و زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی، و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد..
             `,
-            published: "Jun 10,  2022",
+            published: "۱۴۰۱/۱۱/۲۲",
             author: {
-                name: "Flying High",
+                name: "مدیر وبلاگ",
                 img: "/images/author/author1.jpg",
-                designation: "CEO and Founder",
+                designation: "منابع انسانی سازمان",
             },
         },
         {
             id: 5,
-            title: "Your most unhappy customers are your greatest source of learning",
-            subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            title: "عنوان آزمایشی وبلاگ",
+            subtitle: "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ.",
+            category: "تازه های تکنولوژی و فناوری",
             img: "/images/articles/posts/img5.png",
             description: `
-            Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind 
-            text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, qui ea assumenda illo quidem 
-            consequatur ducimus cum aliquam est minus provident placeat, nesciunt vitae. 
-            Et aperiam magni non quasi est asperiores nobis atque suscipit incidunt dignissimos! Harum et sunt ea.
-            When she reached the first hills of the Italic Mountains, she had a last view back on the skyline 
-            of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, 
-            the Line Lane. Pityful a rethoric question ran over her cheek, then she continued her way.
-            Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
-            Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
-            A small river named Duden flows by their place and supplies it with the necessary regelialia. 
-            It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای زیادی در شصت و سه درصد گذشته حال و آینده، شناخت فراوان جامعه و متخصصان را می طلبد، تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی، و فرهنگ پیشرو در زبان فارسی ایجاد کرد، در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها، و شرایط سخت تایپ به پایان رسد و زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی، و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.
+            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای زیادی در شصت و سه درصد گذشته حال و آینده، شناخت فراوان جامعه و متخصصان را می طلبد، تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی، و فرهنگ پیشرو در زبان فارسی ایجاد کرد، در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها، و شرایط سخت تایپ به پایان رسد و زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی، و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد..
             `,
-            published: "Jun 14,  2022",
+            published: "۱۴۰۱/۱۱/۲۲",
             author: {
-                name: "Flying High",
+                name: "مدیر وبلاگ",
                 img: "/images/author/author1.jpg",
-                designation: "CEO and Founder",
+                designation: "منابع انسانی سازمان",
             },
         },
         {
             id: 6,
-            title: "Your most unhappy customers are your greatest source of learning",
-            subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            title: "عنوان آزمایشی وبلاگ",
+            subtitle: "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ.",
+            category: "تازه های تکنولوژی و فناوری",
             img: "/images/articles/posts/img2.png",
             description: `
-            Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind 
-            text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, qui ea assumenda illo quidem 
-            consequatur ducimus cum aliquam est minus provident placeat, nesciunt vitae. 
-            Et aperiam magni non quasi est asperiores nobis atque suscipit incidunt dignissimos! Harum et sunt ea.
-            When she reached the first hills of the Italic Mountains, she had a last view back on the skyline 
-            of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, 
-            the Line Lane. Pityful a rethoric question ran over her cheek, then she continued her way.
-            Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
-            Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
-            A small river named Duden flows by their place and supplies it with the necessary regelialia. 
-            It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای زیادی در شصت و سه درصد گذشته حال و آینده، شناخت فراوان جامعه و متخصصان را می طلبد، تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی، و فرهنگ پیشرو در زبان فارسی ایجاد کرد، در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها، و شرایط سخت تایپ به پایان رسد و زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی، و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.
+            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای زیادی در شصت و سه درصد گذشته حال و آینده، شناخت فراوان جامعه و متخصصان را می طلبد، تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی، و فرهنگ پیشرو در زبان فارسی ایجاد کرد، در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها، و شرایط سخت تایپ به پایان رسد و زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی، و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد..
             `,
-            published: "Jun 5,  2022",
+            published: "۱۴۰۱/۱۱/۲۲",
             author: {
-                name: "Flying High",
+                name: "مدیر وبلاگ",
                 img: "/images/author/author1.jpg",
-                designation: "CEO and Founder",
+                designation: "منابع انسانی سازمان",
             },
         },
     ],
     Popular: [
         {
             id: 1,
-            title: "Your most unhappy customers are your greatest source of learning",
-            subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            title: "عنوان آزمایشی مقالات محبوب",
+            subtitle: "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است.",
+            category: "تجارت و اقتصاد",
             img: "/images/articles/img1.jpg",
             description: `
-            Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic
-            far World of Grammar.
+            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است.
             `,
-            published: "Jun 3,  2022",
+            published: "۱۴۰۱/۱۲/۱۱",
             author: {
-                name: "Flying High",
+                name: "مدیر سایت",
                 img: "/images/author/author1.jpg",
-                designation: "CEO and Founder",
+                designation: "مدیرعامل سازمان",
             },
         },
         {
             id: 2,
-            title: "Your most unhappy customers are your greatest source of learning",
-            subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            title: "عنوان آزمایشی مقالات محبوب",
+            subtitle: "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است.",
+            category: "تجارت و اقتصاد",
             img: "/images/articles/img2.jpg",
             description: `
-            Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic
-            far World of Grammar.
+            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است.
             `,
-            published: "Jun 5,  2022",
+            published: "۱۴۰۱/۱۲/۱۱",
             author: {
-                name: "Flying High",
+                name: "مدیر سایت",
                 img: "/images/author/author1.jpg",
-                designation: "CEO and Founder",
+                designation: "مدیرعامل سازمان",
             },
         },
         {
             id: 3,
-            title: "Your most unhappy customers are your greatest source of learning",
-            subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            title: "عنوان آزمایشی مقالات محبوب",
+            subtitle: "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است.",
+            category: "تجارت و اقتصاد",
             img: "/images/articles/img3.jpg",
             description: `
-            Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic
-            far World of Grammar.
+            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است.
             `,
-            published: "Jun 7,  2022",
+            published: "۱۴۰۱/۱۲/۱۱",
             author: {
-                name: "Flying High",
+                name: "مدیر سایت",
                 img: "/images/author/author1.jpg",
-                designation: "CEO and Founder",
+                designation: "مدیرعامل سازمان",
             },
         },
         {
             id: 4,
-            title: "Your most unhappy customers are your greatest source of learning",
-            subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            title: "عنوان آزمایشی مقالات محبوب",
+            subtitle: "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است.",
+            category: "تجارت و اقتصاد",
             img: "/images/articles/img4.png",
             description: `
-            Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic
-            far World of Grammar.
+            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است.
             `,
-            published: "Jun 10,  2022",
+            published: "۱۴۰۱/۱۲/۱۱",
             author: {
-                name: "Flying High",
+                name: "مدیر سایت",
                 img: "/images/author/author1.jpg",
-                designation: "CEO and Founder",
+                designation: "مدیرعامل سازمان",
             },
         },
         {
             id: 5,
-            title: "Your most unhappy customers are your greatest source of learning",
-            subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            title: "عنوان آزمایشی مقالات محبوب",
+            subtitle: "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است.",
+            category: "تجارت و اقتصاد",
             img: "/images/articles/img5.png",
             description: `
-            Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic
-            far World of Grammar.
+            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است.
             `,
-            published: "Jun 14,  2022",
+            published: "۱۴۰۱/۱۲/۱۱",
             author: {
-                name: "Flying High",
+                name: "مدیر سایت",
                 img: "/images/author/author1.jpg",
-                designation: "CEO and Founder",
+                designation: "مدیرعامل سازمان",
             },
         },
     ],

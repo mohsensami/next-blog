@@ -13,10 +13,10 @@ export default function section4() {
     if (isError) return <Error></Error>;
 
     return (
-        <section className="container mx-auto md:px-20 py-16">
+        <section className="container mx-auto md:px-20">
             <div className="grid lg:grid-cols-2">
                 <div className="item">
-                    <h1 className="font-bold text-4xl py-12">Business</h1>
+                    <h1 className="font-bold text-2xl py-12">مهاجرت</h1>
                     <div className="flex flex-col gap-6">
                         {/* posts */}
                         {data[1] ? <Post data={data[1]}></Post> : <></>}
@@ -25,7 +25,7 @@ export default function section4() {
                     </div>
                 </div>
                 <div className="item">
-                    <h1 className="font-bold text-4xl py-12">Travel</h1>
+                    <h1 className="font-bold text-2xl py-12">گردشگری</h1>
                     <div className="flex flex-col gap-6">
                         {data[4] ? <Post data={data[4]}></Post> : <></>}
                         {data[5] ? <Post data={data[5]}></Post> : <></>}
@@ -58,9 +58,9 @@ function Post({ data }) {
                         <a className="text-gray-800 hover:text-gray-600">- {published || ""}</a>
                     </Link>
                 </div>
-                <div className="title">
+                <div className="title pt-2">
                     <Link legacyBehavior href={`/posts/${id}`}>
-                        <a className="text-xl font-bold text-gray-800 hover:text-gray-600">{title || "No Title"}</a>
+                        <a className="text-lg font-bold text-gray-800 hover:text-gray-600">{title || "No Title"}</a>
                     </Link>
                 </div>
                 {author ? <Author {...author}></Author> : <></>}

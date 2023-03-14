@@ -35,15 +35,15 @@ function Article({ title, img, subtitle, description, author }) {
                 <div className="flex justify-center">{author ? <Author {...author}></Author> : <></>}</div>
 
                 <div className="post py-10">
-                    <h1 className="font-bold text-4xl text-center pb-5">{title || "No Title"}</h1>
+                    <h1 className="font-bold text-2xl text-center pb-5">{title || "No Title"}</h1>
 
-                    <p className="text-gray-500 text-xl text-center">{subtitle || "No Title"}</p>
+                    <p className="text-gray-500 text-lg text-center">{subtitle || "No Title"}</p>
 
                     <div className="py-10">
                         <Image src={img || "/"} width={900} height={600}></Image>
                     </div>
 
-                    <div className="content text-gray-600 text-lg flex flex-col gap-4">{description || "No Description"}</div>
+                    <div className="content text-gray-600 text-md flex flex-col gap-4 text-justify leading-9">{description || "No Description"}</div>
                 </div>
 
                 <Ralated></Ralated>
