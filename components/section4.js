@@ -63,7 +63,7 @@ function Post({ data }) {
                         <a className="text-xl font-bold text-gray-800 hover:text-gray-600">{title || "No Title"}</a>
                     </Link>
                 </div>
-                {author ? <Author></Author> : <></>}
+                {author ? <Author {...author}></Author> : <></>}
             </div>
         </div>
     );
