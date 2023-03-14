@@ -1,11 +1,11 @@
-import Format from "../../layout/format";
-import Author from "../../components/_child/author";
+import Format from "@/layout/format";
+import Author from "@/components/_child/author";
 import Image from "next/image";
-import Ralated from "../../components/_child/related";
-import getPost from "../../lib/helper";
-import fetcher from "../../lib/fetcher";
-import Spinner from "../../components/_child/spinner";
-import ErrorComponent from "../../components/_child/error";
+import Ralated from "@/components/_child/related";
+import getPost from "@/lib/helper";
+import fetcher from "@/lib/fetcher";
+import Spinner from "@/components/_child/spinner";
+import ErrorComponent from "@/components/_child/error";
 import { useRouter } from "next/router";
 import { SWRConfig } from "swr";
 import Head from "next/head";
@@ -19,9 +19,9 @@ export default function Page({ fallback }) {
     if (isError) return <ErrorComponent></ErrorComponent>;
 
     return (
-        <SWRConfig value={{ fallback }}>
-            <Article {...data}></Article>
-        </SWRConfig>
+        <Article {...data}></Article>
+        // <SWRConfig value={{ fallback }}>
+        // </SWRConfig>
     );
 }
 
