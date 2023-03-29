@@ -13,7 +13,7 @@ export default function Ralated() {
 
     return (
         <section className="pt-20">
-            <h1 className="font-bold text-3xl py-10">Related</h1>
+            <h1 className="font-bold text-xl py-10">مقالات مرتبط</h1>
 
             <div className="flex flex-col gap-10">
                 {data.map((value, index) => (
@@ -45,7 +45,7 @@ function Post({ data }) {
                         <a className="text-gray-800 hover:text-gray-600">- {published || ""}</a>
                     </Link>
                 </div>
-                <div className="title">
+                <div className="title pt-2">
                     <Link legacyBehavior href={`/posts/${id}`}>
                         <a className="text-xl font-bold text-gray-800 hover:text-gray-600">{title || "No Title"}</a>
                     </Link>

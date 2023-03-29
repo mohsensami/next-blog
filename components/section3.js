@@ -13,8 +13,8 @@ export default function section3() {
     if (isError) return <Error></Error>;
 
     return (
-        <section className="container mx-auto md:px-20 py-16">
-            <h1 className="font-bold text-4xl py-12 text-center">Most Popular</h1>
+        <section className="container mx-auto md:px-20">
+            <h1 className="font-bold text-2xl py-12 text-center">مقالات محبوب</h1>
 
             {/* swiper */}
             <Swiper
@@ -56,9 +56,9 @@ function Post({ data }) {
                         <a className="text-gray-800 hover:text-gray-600">- {published || ""}</a>
                     </Link>
                 </div>
-                <div className="title">
+                <div className="title pt-2">
                     <Link legacyBehavior href={`/posts/${id}`}>
-                        <a className="text-3xl md:text-4xl font-bold text-gray-800 hover:text-gray-600">{title || "No Title"}</a>
+                        <a className="text-3xl md:text-xl font-bold text-gray-800 hover:text-gray-600">{title || "No Title"}</a>
                     </Link>
                 </div>
                 <p className="text-gray-500 py-3">{description || "No Description"}</p>
